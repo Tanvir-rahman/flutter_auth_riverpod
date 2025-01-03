@@ -1,2 +1,2 @@
-# To Do
-1) Need to fix features / presentation - screens architecture
+Reference:
+- https://github.com/lazycatlabs/flutter_auth_app

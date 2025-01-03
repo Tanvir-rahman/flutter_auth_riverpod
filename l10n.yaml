@@ -1,0 +1,9 @@
+arb-dir: lib/core/localization
+output-dir: lib/core/localization/generated
+template-arb-file: intl_en.arb
+output-localization-file: strings.dart
+output-class: Strings
+synthetic-package: false
+nullable-getter: false
+use-deferred-loading: false
+untranslated-messages-file: untranslated_messages.json

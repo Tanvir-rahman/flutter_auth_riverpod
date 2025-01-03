@@ -1,0 +1,148 @@
+{
+  "@@locale": "en",
+  
+  "dashboard": "Dashboard",
+  "@dashboard": {
+    "description": "Title for the dashboard screen"
+  },
+
+  "about": "About",
+  "@about": {
+    "description": "Title for the about screen"
+  },
+
+  "selectDate": "Choose Date",
+  "@selectDate": {
+    "description": "Label for date picker"
+  },
+
+  "selectTime": "Choose Time",
+  "@selectTime": {
+    "description": "Label for time picker"
+  },
+
+  "select": "Select",
+  "@select": {
+    "description": "Generic select button text"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Generic cancel button text"
+  },
+
+  "pleaseWait": "Please Wait...",
+  "@pleaseWait": {
+    "description": "Loading indicator text"
+  },
+
+  "login": "Login",
+  "@login": {
+    "description": "Login button and screen title"
+  },
+
+  "email": "Email",
+  "@email": {
+    "description": "Label for email input field"
+  },
+
+  "password": "Password",
+  "@password": {
+    "description": "Label for password input field"
+  },
+
+  "register": "Register",
+  "@register": {
+    "description": "Register button and screen title"
+  },
+
+  "askRegister": "Don't have an Account?",
+  "@askRegister": {
+    "description": "Text prompting user to register"
+  },
+
+  "errorInvalidEmail": "Email is not valid",
+  "@errorInvalidEmail": {
+    "description": "Error message for invalid email format"
+  },
+
+  "errorEmptyField": "Can't be empty",
+  "@errorEmptyField": {
+    "description": "Error message for required fields"
+  },
+
+  "errorPasswordLength": "Password must be at least 6 characters",
+  "@errorPasswordLength": {
+    "description": "Error message for password length requirement"
+  },
+
+  "passwordRepeat": "Repeat Password",
+  "@passwordRepeat": {
+    "description": "Label for password confirmation field"
+  },
+
+  "errorPasswordNotMatch": "Password doesn't match",
+  "@errorPasswordNotMatch": {
+    "description": "Error message when passwords don't match"
+  },
+
+  "settings": "Settings",
+  "@settings": {
+    "description": "Title for the settings screen"
+  },
+
+  "themeLight": "Theme Light",
+  "@themeLight": {
+    "description": "Label for light theme option"
+  },
+
+  "themeDark": "Theme Dark",
+  "@themeDark": {
+    "description": "Label for dark theme option"
+  },
+
+  "themeSystem": "Theme System",
+  "@themeSystem": {
+    "description": "Label for system theme option"
+  },
+
+  "chooseTheme": "Choose Theme",
+  "@chooseTheme": {
+    "description": "Title for theme selection dialog"
+  },
+
+  "chooseLanguage": "Choose Language",
+  "@chooseLanguage": {
+    "description": "Title for language selection dialog"
+  },
+
+  "errorNoData": "No data",
+  "@errorNoData": {
+    "description": "Message shown when no data is available"
+  },
+
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+
+  "logoutDesc": "Do you want to logout from the app?",
+  "@logoutDesc": {
+    "description": "Confirmation message for logout"
+  },
+
+  "yes": "Yes",
+  "@yes": {
+    "description": "Generic confirmation button text"
+  },
+
+  "lastUpdate": "Last Update: ",
+  "@lastUpdate": {
+    "description": "Label for showing last update time"
+  },
+
+  "name": "Name",
+  "@name": {
+    "description": "Label for name input field"
+  }
+}
